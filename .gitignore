@@ -3,3 +3,4 @@ target/
 *.iml
 allure-results/
 .DS_Store
+!target/allure-results/
